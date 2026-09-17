@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mrsazreen1-spec.github.io/homeostasis-hub/sitemap.xml
